@@ -160,7 +160,26 @@ Wireframes break the product into manageable parts, supporting iterative design 
 
 ---
 
-Wireframing is more than just sketching — it is a **strategic step that bridges the gap between concept and code**, ensuring that the final product is both functional and user-friendly.
+## 🧪 Real-World Scenario: Catching Usability Issues Early with Wireframing
+
+### Scenario:
+While working on the Airbnb Clone project, our team created a wireframe for the **property booking flow** using Figma. Initially, the wireframe featured a multi-step booking process spread across several pages — one for selecting dates, another for guest details, and a third for payment. At first glance, this structure seemed logical.
+
+However, during internal wireframe reviews, team members pointed out that splitting the booking flow across too many pages could lead to confusion, especially on mobile devices. Users might abandon the process if they had to go back and forth just to edit basic information. This issue was identified **before any development started**.
+
+### How the Issue Was Resolved:
+Instead of a multi-page form, we redesigned the flow into a **single, scrollable page with collapsible sections** for dates, guests, and payment. This not only simplified the user experience but also reduced the number of clicks and page loads, making it faster and easier to complete a booking.
+
+The new design was immediately validated with mock user tests and feedback, and it was universally seen as more intuitive.
+
+### Impact on the Final Product:
+- Improved mobile usability by minimizing page transitions.
+- Increased potential conversion rates due to reduced booking friction.
+- Saved development time by preventing a costly rework later in the project cycle.
+
+### Conclusion:
+This experience highlighted the power of wireframing in uncovering potential user experience issues early. Wireframing acted as a **blueprint**, helping us visualize user flows, gather feedback, and refine interactions **before writing a single line of code**. It reinforced wireframing as an essential tool for designing user-friendly, goal-oriented applications.
+
 
 
 ---
