@@ -94,4 +94,44 @@ This type of wireframe is ideal for **finalizing UI decisions**, **user testing*
 
 [Click here to view the Figma prototype](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&embed-host=share)
 
+---
+
+## 🛠️ Popular Wireframing Tools
+
+Wireframing tools help designers and developers quickly visualize the structure and flow of a product before moving into full development. Below are some popular tools used in the industry:
+
+### 🧩 1. Figma
+**Figma** is a powerful, cloud-based UI/UX design tool that allows teams to collaborate in real-time. It’s one of the most widely used tools for wireframing and prototyping because of its flexibility, accessibility, and community support.
+
+**Key Features:**
+- Cloud-based with live collaboration
+- Intuitive interface and drag-and-drop elements
+- Extensive component libraries and plugins
+- Built-in prototyping tools for interactive mockups
+- Version history and easy sharing
+
+**Why Figma is Great for Wireframing:**
+Figma allows designers to go from low-fidelity sketches to high-fidelity, interactive prototypes — all in one place. It’s especially useful for teams working remotely or asynchronously, as everyone can view and edit the design in real time. Figma also integrates well with tools like GitHub, Slack, and Notion.
+
+➡️ [View the Airbnb Project Prototype in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&embed-host=share)
+
+---
+
+### 📐 2. Balsamiq
+A low-fidelity wireframing tool with a hand-drawn feel, perfect for early-stage brainstorming.
+
+### 💻 3. Adobe XD
+Adobe’s vector-based design tool for UI/UX design. It supports design, prototyping, and developer hand-off with integration into the Adobe ecosystem.
+
+### 🧱 4. Sketch
+A macOS-based design tool popular among professional designers, known for its powerful plugins and clean interface.
+
+### 📄 5. Draw.io (diagrams.net)
+Free and easy-to-use diagramming tool great for creating quick wireframes, flowcharts, and use case diagrams.
+
+---
+
+Choosing the right tool depends on your team’s workflow, fidelity needs, and collaboration preferences. For most modern teams, **Figma stands out as a top choice** due to its accessibility, robust feature set, and excellent user experience.
+
+
 
